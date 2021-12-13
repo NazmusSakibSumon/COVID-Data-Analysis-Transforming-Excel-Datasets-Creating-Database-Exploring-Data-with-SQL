@@ -1,1 +1,1 @@
-# COVID-Data-Analysis-Transforming-Excel-Datasets-Creating-Database-Exploring-Data-with-SQL
+Hi, in this project, we will analyze COVID dataset. We will source data from a database that we will develop by joining and by making unions among tables from a uploaded excel file in MS SQL Server. Then we will explore the tables by writing appropriate SQL queries. At the end we will have prepared tables and views from executed SQL queries for further analysis using dashboards and visualizations. 
